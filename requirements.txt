@@ -1,0 +1,33 @@
+numpy
+pandas
+jupyter
+
+matplotlib
+seaborn
+bokeh
+
+pyarrow
+openpyxl
+# psycopg2-binary
+# lxml
+# requests
+
+missingno
+pyod
+
+# geopy
+# h3pandas
+# geopandas
+
+# sklearn
+# statsmodels
+# tensorflow
+
+# xgboost
+# catboost
+# lightgbm
+
+# darts
+# sktime
+
+# networkx
